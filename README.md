@@ -7,6 +7,13 @@ Jim Jung
 Tristan Snyder
 Caleb Fagan
 He Zhe Yu
+## Those Traveling:
+Hayden Harrill
+Trevor Levins
+Jim Jung
+Tristan Snyder
+Caleb Fagan
+He Zhe Yu
 ##
 Budget - $60,000
 ##
