@@ -8,9 +8,10 @@ Tristan Snyder
 Caleb Fagan
 He Zhe Yu
 ##
-Budget - 60,000
+Budget - $60,000
 ##
 Length - 1 Weekend
 ## Purpose
 General Celebration//Trevor is 21
-## Destination
+# Destination
+Las Vegas, NV - Bellagio Hotel
