@@ -4,14 +4,14 @@ Hub for CS4320 Travel Project
 Hayden Harrill
 Trevor Levins
 Jim Jung
-Tristan Snyder
+Tristin Snyder
 Caleb Fagan
 He Zhe Yu
 ## Those Traveling:
 Hayden Harrill
 Trevor Levins
 Jim Jung
-Tristan Snyder
+Tristin Snyder
 Caleb Fagan
 He Zhe Yu
 ##
