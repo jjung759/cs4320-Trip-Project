@@ -24,5 +24,9 @@
 * we assume that we will go to St-louis by MO-X, which cost 2hours and $300 in total
 
 2. local transportation 
-	
+	1. Las Vegas Monorail (optional)
+		Cause the railway is always via the most gorgerous scenery of the city , we can try it for sightseeing    
+		[Monorail](https://www.lvmonorail.com/#)
+	2. car rental  
+		[rent a car through Expedia](https://www.expedia.com/Car-Rentals-In-Las-Vegas.d178276.Car-Rental-Guide?&langid=1033)
 
