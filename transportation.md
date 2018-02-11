@@ -34,6 +34,6 @@
 
 3. total cost
 
-	fixed cost:   4056 + 300 =$ 4356
+		fixed cost:   4056 + 300 =$ 4356
 	
-	potential cost : rental fee (undefined)
+	    potential cost : rental fee (undefined)
