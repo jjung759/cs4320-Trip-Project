@@ -33,7 +33,8 @@
 		[Monorail](https://www.lvmonorail.com/#)
 	2. car rental  
 		[rent a car through Expedia](https://www.expedia.com/Car-Rentals-In-Las-Vegas.d178276.Car-Rental-Guide?&langid=1033)
-
+		
+		[car rental detail](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/rentalVehicles/rentalCar.md)
 3. total cost
 
 		fixed cost:   4056 + 300 =$ 4356
