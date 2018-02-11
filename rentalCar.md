@@ -2,7 +2,7 @@
 
 * Renting a car from Enterprise Rent a Car.
 
-![Rental Car](images/Rental\ Car.png)
+![Rental Car](images/RentalCar.png)
 
 * We would have to also purchase parking at the Bellagio Hotel.
 
