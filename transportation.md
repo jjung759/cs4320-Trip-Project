@@ -23,7 +23,7 @@
 
 * Intuitively, St-Louis should be a better start-point of a long-distance trip 
 
-* we assume that we will go to St-louis by MO-X, which cost 2hours and $300 in total
+* We will get to St. Louis by taking an uberXL for $299 there and $349 back, which will take approximately 2 hours
 
 2. local transportation 
 	1. Las Vegas Monorail (optional)
@@ -37,6 +37,6 @@
 		[car rental detail](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/rentalVehicles/rentalCar.md)
 3. total cost
 
-		fixed cost:   4056 + 300 =$ 4356
+		fixed cost:   4056 + 299 + 349 =$ 4704
 	
 	    potential cost : rental fee (undefined)
