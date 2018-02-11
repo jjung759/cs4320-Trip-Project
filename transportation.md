@@ -33,5 +33,7 @@
 		[rent a car through Expedia](https://www.expedia.com/Car-Rentals-In-Las-Vegas.d178276.Car-Rental-Guide?&langid=1033)
 
 3. total cost
+
 	fixed cost:   4056 + 300 =$ 4356
+	
 	potential cost : rental fee (undefined)
