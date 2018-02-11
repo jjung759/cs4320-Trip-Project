@@ -15,15 +15,15 @@
 	  * price: 6*315= $ 1890 and  6*361= $ 2166 
 	  * flight company: Frontier
 	  * ![map](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/pictures/STLtoLAS.jpg)
-	* Although our trip is a big budget project, it is obvious that we can do air plane for saving time and money 
+* Although our trip is a big budget project, it is obvious that we can do air plane for saving time and money 
 	
-	* round trip flight information :
+* round trip flight information :
 	
-	* ![roundtrip](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/pictures/roundtrip.jpg)	
+* ![roundtrip](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/pictures/roundtrip.jpg)	
 
-Intuitively, St-Louis should be a better start-point of a long-distance trip 
+* Intuitively, St-Louis should be a better start-point of a long-distance trip 
 
-we assume that we will go to St-louis by MO-X, which cost 2hours and $300 in total
+* we assume that we will go to St-louis by MO-X, which cost 2hours and $300 in total
 
 2. local transportation 
 	1. Las Vegas Monorail (optional)
