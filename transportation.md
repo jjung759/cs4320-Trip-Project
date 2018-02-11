@@ -12,7 +12,7 @@
 	  * ![driving route](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/pictures/driving.jpg)
 	* flight (*best choice*) 
 	  * time cost: 4 hours
-	  * price: 6*189 = $ 1134 
+	  * price: 6*315= $ 1890 and  6*361= $ 2166 
 	  * flight company: Frontier
 	  * ![map](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/pictures/STLtoLAS.jpg)
 * Although our trip is a big budget project, it is obvious that we can do air plane for saving time and money 
@@ -25,8 +25,13 @@
 
 2. local transportation 
 	1. Las Vegas Monorail (optional)
+	
 		Cause the railway is always via the most gorgerous scenery of the city , we can try it for sightseeing    
+		
 		[Monorail](https://www.lvmonorail.com/#)
 	2. car rental  
 		[rent a car through Expedia](https://www.expedia.com/Car-Rentals-In-Las-Vegas.d178276.Car-Rental-Guide?&langid=1033)
 
+3. total cost
+	fixed cost:   4056 + 300 =$ 4356
+	potential cost : rental fee (undefined)
