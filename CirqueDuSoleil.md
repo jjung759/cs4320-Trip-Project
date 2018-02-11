@@ -8,4 +8,4 @@ Location: [Bellagio](https://www.google.com/maps/place/3600+S+Las+Vegas+Blvd,+La
 
 Cost: $1376.35
 
-![Tickets](images\CirqueDuSoleilTickets.PNG)
+![Tickets](images/CirqueDuSoleilTickets.PNG "Cirque Du Soleil")
