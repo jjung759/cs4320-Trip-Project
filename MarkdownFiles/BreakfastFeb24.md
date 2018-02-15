@@ -1,7 +1,6 @@
 # Breakfast 02/24
 
-
-![Grand Lux](images/GrandLux.png)
+![Grand Lux](cs4320-trip-project/images/GrandLux.png)
 
 * Rated the best breakfast place in Las Vegas
 * Phone Number: (702) 414-3888
