@@ -14,7 +14,7 @@ Jim Jung
 Tristin Snyder
 Caleb Fagan
 He Zhe Yu
-## Budget 
+## Budget
 $60,000
 ## Length
 1 Weekend: Feb 22 - Feb 25
@@ -22,6 +22,13 @@ $60,000
 General Celebration//Trevor is 21
 ## Destination
 Las Vegas, NV - Bellagio Hotel
+## Expenses
+[Expenses Spreadsheet - Update Costs Here](https://docs.google.com/spreadsheets/d/1v8CSGl0PSeG5nOfz9qMIAKsIUIlrHvO2kziHH06konk/edit?usp=sharing)
+## Transportation
+[Transportation](MarkdownFiles/transportation.md)
 ## Hotel
 [Hotels](MarkdownFiles/hotel.md)
-
+## Rental car
+[Rental Car](MarkdownFiles/rentalCar.md)
+## Roller Coaster
+[Roller Coaster](MarkdownFiles/rollercoaster.md)

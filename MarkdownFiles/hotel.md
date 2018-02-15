@@ -1,16 +1,18 @@
 # Hotel Details
 
+[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)
+
 The hotel that we are staying at the weekend of February 23-25th is the [Bellagio in Las Vegas.](https://www.bellagio.com/en.html "Bellagio Homepage")
 
 This is what the hotel looks like.
 
-![Bellagio](images/BellagioFront.jpg "Bellagio")
+![Bellagio](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/BellagioFront.jpg "Bellagio")
 
 #### Room
 
 As there are six of us, we have chosen to stay in **3 separate 2-Bedroom Penthouse Suite** rooms, where we can enjoy 3 separate living rooms that look like this:
 
-![Room Inside](images/Bellagio_penthouse_suite.jpg "Bellagio room interior")
+![Room Inside](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/Bellagio_penthouse_suite.jpg"Bellagio room interior")
 
 The room assignments are as follows:
 - Hayden and Jim in room 1
@@ -21,7 +23,7 @@ The room assignments are as follows:
 
 The price for one room for the weekend of February 23rd - 25th is below.
 
-![RoomPrice](images/BellagioRoom.png "Bellagio room price")
+![RoomPrice](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/BellagioRoom.png "Bellagio room price")
 
 As there are 3 rooms, we multiply the reservation total by 3.
 
