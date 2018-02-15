@@ -1,18 +1,18 @@
 # CS4320 Trip Project
 Hub for CS4320 Travel Project
 ## Team Members
-Hayden Harrill
-Trevor Levins
-Jim Jung
-Tristin Snyder
-Caleb Fagan
+Hayden Harrill,
+Trevor Levins,
+Jim Jung,
+Tristin Snyder,
+Caleb Fagan,
 He Zhe Yu
 ## Those Traveling:
-Hayden Harrill
-Trevor Levins
-Jim Jung
-Tristin Snyder
-Caleb Fagan
+Hayden Harrill,
+Trevor Levins,
+Jim Jung,
+Tristin Snyder,
+Caleb Fagan,
 He Zhe Yu
 ## Budget
 $60,000
@@ -30,5 +30,8 @@ Las Vegas, NV - Bellagio Hotel
 [Hotels](MarkdownFiles/hotel.md)
 ## Rental car
 [Rental Car](MarkdownFiles/rentalCar.md)
-## Roller Coaster
-[Roller Coaster](MarkdownFiles/rollercoaster.md)
+## Trip activities
+* [Roller Coaster](MarkdownFiles/rollercoaster.md)
+* [Cirque Du Soleil](MarkdownFiles/CirqueDuSoleil.md)
+* [Luxury Alcohol](MarkdownFiles/luxuryalcohol.md)
+* [Breakfast Feb. 24th](MarkdownFiles/BreakfastFeb24.md)

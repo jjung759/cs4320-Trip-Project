@@ -6,23 +6,23 @@
 	* Train     
 	  * time cost: 37 hours 2 minutes
 	  * price : $ 1710 to 4602
-	   ![map](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/transportation_pictures/train.jpg)
+	   ![map](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/train.jpg)
     * [Train Trip](https://www.rome2rio.com/s/St-Louis/Las-Vegas)
 	* Driving
 	  * time cost: at least 21 hours
 	  * price : depends on gas price
-	  ![driving route](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/transportation_pictures/driving.jpg)
+	  ![driving route](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/driving.jpg)
 	* Flight (*best choice*)
 	  * time cost: 4 hours
 	  * price: $ 1890 and   $ 2166
 	  * flight company: Frontier
-	  ![map](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/transportation_pictures/STLtoLAS.jpg)
+	  ![map](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/STLtoLAS.jpg)
 
 * Although our trip is a big budget project, it is obvious that we can do air plane for saving time and money
 
 * Round trip flight information :
 
-![roundtrip](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/transportation/transportation_pictures/roundtrip.jpg)
+![roundtrip](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/roundtrip.jpg)
 
 * Intuitively, St-Louis should be a better start-point of a long-distance trip
 
