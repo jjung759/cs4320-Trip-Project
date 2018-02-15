@@ -25,4 +25,4 @@ Las Vegas, NV - Bellagio Hotel
 * [Cirque Du Soleil](MarkdownFiles/CirqueDuSoleil.md)
 * [Luxury Alcohol](MarkdownFiles/luxuryalcohol.md)
 * [Dinner Feb. 24th](MarkdownFiles/DinnerFeb24.md)
-* [Breakfast Feb. 25th](MarkdownFiles/BreakfastFeb25.md)
+* [Meals on Feb. 25th](MarkdownFiles/MealsFeb25.md)
