@@ -23,5 +23,5 @@ General Celebration//Trevor is 21
 ## Destination
 Las Vegas, NV - Bellagio Hotel
 ## Hotel
-[Hotels](hotels.md)
+[Hotels](MarkdownFiles/hotel.md)
 
