@@ -1,5 +1,7 @@
 # Rental Car
 
+[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)
+
 * Renting a car from Enterprise Rent a Car.
 
 ![Rental Car](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/RentalCar.png "Rental")
@@ -18,5 +20,3 @@
 * Once on the Las Vegas Strip we would be able to walk to most of our entertainment options
 
 ![Uber](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/Uber.png)
-
-[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)

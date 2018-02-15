@@ -1,5 +1,7 @@
 #### THE ROLLER COASTER AT NEW YORK-NEW YORK
 
+[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)
+
 A rollercoaster inside of the New York-New York Hotel Casino.
 
 ##### The Rollercoaster
@@ -20,5 +22,3 @@ We will take the Uber from the Bellagio to the New York-New York hotel and take 
 
 ##### Cost
 The total cost of riding the rollercoaster at the New York-New York Hotel Casino is $110, the combined cost of six individual rides and two Ubers.
-
-[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)

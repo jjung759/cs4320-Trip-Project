@@ -1,5 +1,7 @@
 ![Show Title](https://s1.ticketm.net/tm/en-us/dam/a/e7e/f6edaa07-8972-45d0-bd4c-b08c10a66e7e_108541_CUSTOM.jpg)
 
+[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)
+
 # O by Cirque Du Soleil
 
 Date: Feb. 24 at 9:30 pm
@@ -9,5 +11,3 @@ Location: [Bellagio](https://www.google.com/maps/place/3600+S+Las+Vegas+Blvd,+La
 Cost: $1376.35
 
 ![Tickets](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/CirqueDuSoleilTickets.PNG "Cirque Du Soleil")
-
-[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)

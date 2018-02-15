@@ -1,5 +1,7 @@
 # Transportation plan
 
+[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)
+
 1. arriving at Las Vegas (time and money cost for one way)
 	* Train     
 	  * time cost: 37 hours 2 minutes
@@ -31,9 +33,7 @@
 		* Cause the railway is always via the most gorgeous scenery of the city , we can try it for sightseeing    
 		* [Monorail](https://www.lvmonorail.com/#)
 	* Car Rental  
-		* [Car Rental Detail](https://github.com/jjung759/cs4320-Trip-Project/blob/feature/rentalVehicles/rentalCar.md)
+		* [Car Rental Detail](https://github.com/jjung759/cs4320-Trip-Project/blob/master/MarkdownFiles/rentalCar.md)
 3. Total cost
 		* Fixed cost:   4056 + 299 + 349 =$ 4704
 		* potential cost : rental fee (undefined)
-
-[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)
