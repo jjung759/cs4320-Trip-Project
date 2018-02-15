@@ -2,6 +2,25 @@
 
 [Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)
 
+We are arriving in Vegas on the night of February 22nd. That night of the 22nd, we will stay at the [Vdara Hotel and Spa.](https://www.vdara.com/en.html)
+
+The cost for one room:
+![Vdara](https://github.com/jjung759/cs4320-Trip-Porject/blob/master/images/VdaraRoom.png "VdaraRoom")
+
+There will be three rooms:
+- Hayden, Jim in room 1
+- Caleb, He in room 2
+- Trevor, Tristin in room 3
+
+The total cost for lodging for the first night:
+$652.39 * 3 = $1957.17
+
+Checkout time: 11:00 AM
+
+The Vdara is actually about 2 - 3 minutes away from the Bellagio, where we will stay February 23-25th. We will walk there after we check out. 
+
+#### Weekend
+
 The hotel that we are staying at the weekend of February 23-25th is the [Bellagio in Las Vegas.](https://www.bellagio.com/en.html "Bellagio Homepage")
 
 This is what the hotel looks like.
@@ -14,10 +33,7 @@ As there are six of us, we have chosen to stay in **3 separate 2-Bedroom Penthou
 
 ![Room Inside](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/Bellagio_penthouse_suite.jpg "Bellagio room interior")
 
-The room assignments are as follows:
-- Hayden and Jim in room 1
-- Caleb and He in room 2
-- Trevor and Tristin in room 3
+The room assignments are the same as above.
 
 #### Price
 

@@ -7,7 +7,7 @@ A rollercoaster inside of the New York-New York Hotel Casino.
 ##### The Rollercoaster
 On February 24th at 2 PM we will all take a ride on this coaster.
 
-![rollercoaster](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/RollercoasterView.jpg"New York-New York coaster")
+![rollercoaster](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/RollercoasterView.jpg "New York-New York coaster")
 
 The prices to ride are available online. We will each only ride this ride once.
 
