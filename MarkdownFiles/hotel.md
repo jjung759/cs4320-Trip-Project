@@ -5,7 +5,7 @@
 We are arriving in Vegas on the night of February 22nd. That night of the 22nd, we will stay at the [Vdara Hotel and Spa.](https://www.vdara.com/en.html)
 
 The cost for one room:
-![Vdara](https://github.com/jjung759/cs4320-Trip-Porject/blob/master/images/VdaraRoom.png "VdaraRoom")
+![Vdara](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/VdaraRoom.png "VdaraRoom")
 
 There will be three rooms:
 - Hayden, Jim in room 1
@@ -17,7 +17,7 @@ $652.39 * 3 = $1957.17
 
 Checkout time: 11:00 AM
 
-The Vdara is actually about 2 - 3 minutes away from the Bellagio, where we will stay February 23-25th. We will walk there after we check out. 
+The Vdara is actually about 2 - 3 minutes away from the Bellagio, where we will stay February 23-25th. We will walk there after we check out.
 
 #### Weekend
 
