@@ -12,7 +12,7 @@ This is what the hotel looks like.
 
 As there are six of us, we have chosen to stay in **3 separate 2-Bedroom Penthouse Suite** rooms, where we can enjoy 3 separate living rooms that look like this:
 
-![Room Inside](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/Bellagio_penthouse_suite.jpg"Bellagio room interior")
+![Room Inside](https://github.com/jjung759/cs4320-Trip-Project/blob/master/images/Bellagio_penthouse_suite.jpg "Bellagio room interior")
 
 The room assignments are as follows:
 - Hayden and Jim in room 1
