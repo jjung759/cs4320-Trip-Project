@@ -4,7 +4,7 @@
 
 ## Lunch on Feb. 24th
 
-![Yardbird Southern Table & Bar](http://www.runchickenrun.com/location/las-vegas/)
+[Yardbird Southern Table & Bar](http://www.runchickenrun.com/location/las-vegas/)
 
 * Rated Highly on Yelp
 * Within walking distance from hotel (1 Mile)
