@@ -24,5 +24,5 @@ Las Vegas, NV - Bellagio Hotel
 * [Roller Coaster](MarkdownFiles/rollercoaster.md)
 * [Cirque Du Soleil](MarkdownFiles/CirqueDuSoleil.md)
 * [Luxury Alcohol](MarkdownFiles/luxuryalcohol.md)
-* [Dinner Feb. 24th](MarkdownFiles/DinnerFeb24.md)
+* [Dinner Feb. 24th](MarkdownFiles/MealsFeb24.md)
 * [Meals on Feb. 25th](MarkdownFiles/MealsFeb25.md)
