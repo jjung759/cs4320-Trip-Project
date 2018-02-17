@@ -26,3 +26,5 @@ Las Vegas, NV - Bellagio Hotel
 * [Luxury Alcohol](MarkdownFiles/luxuryalcohol.md)
 * [Meals on Feb. 24th](MarkdownFiles/MealsFeb24.md)
 * [Meals on Feb. 25th](MarkdownFiles/MealsFeb25.md)
+## Trip Schedule/Itinerary
+* [Itinerary](MarkdownFiles/itinerary.md)
