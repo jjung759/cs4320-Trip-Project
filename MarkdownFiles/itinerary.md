@@ -12,12 +12,12 @@
 * #### 7:30-12:00AM Free night/sleep. Its a short walk to some casinos so those who are interested can explore around there.
 ### Friday, February 23
 * #### 11:00 AM - Checkout out of Vdara Hotel
-* #### 11:30 AM - Lunch - TBD
+* #### 11:30 AM - Lunch - having lunch at  lake side Restaurant LV
 * #### 12:30 PM Travel to Red Rocks State Recreation.
 * #### 1:00 PM Arrive at Red Rocks Canyon National recreation area
 * #### 2:30 PM Travel from Red Rocks to Bellagio Hotel
 * #### 3:00 PM Check in to Bellagio Hotel and Casino
-* #### 6:00 Dinner
+* #### 6:00 PM having dinner at the Bellagio Hotel 
 * #### 7:00 activity - tbd
 * #### 10:30 late night activity -TBD - Probably go get drinks for birthday stuff
 ### Saturday Feb 24th
