@@ -24,8 +24,11 @@ Las Vegas, NV - Bellagio Hotel
 * [Roller Coaster](MarkdownFiles/rollercoaster.md)
 * [Cirque Du Soleil](MarkdownFiles/CirqueDuSoleil.md)
 * [Luxury Alcohol](MarkdownFiles/luxuryalcohol.md)
+* [Meals on Feb. 23rd](MarkdownFiles/mealsFeb23.md)
 * [Meals on Feb. 24th](MarkdownFiles/MealsFeb24.md)
 * [Meals on Feb. 25th](MarkdownFiles/MealsFeb25.md)
+* [Red Rocks Trip](MarkdownFiles/redRocks.md)
+* [Mandalay Bay Aquarium Visit](MarkdownFiles/SharkReef.md)
 * [Gambling](MarkdownFiles/gambling.md)
 ## Trip Schedule/Itinerary
 * [Itinerary](MarkdownFiles/itinerary.md)
