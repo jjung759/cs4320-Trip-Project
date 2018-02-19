@@ -29,6 +29,7 @@ Las Vegas, NV - Bellagio Hotel
 * [Meals on Feb. 25th](MarkdownFiles/MealsFeb25.md)
 * [Red Rocks Trip](MarkdownFiles/redRocks.md)
 * [Mandalay Bay Aquarium Visit](MarkdownFiles/SharkReef.md)
+* [Top Golf](MarkdownFiles/TopGolf.md)
 * [Gambling](MarkdownFiles/gambling.md)
 ## Trip Schedule/Itinerary
 * [Itinerary](MarkdownFiles/itinerary.md)
