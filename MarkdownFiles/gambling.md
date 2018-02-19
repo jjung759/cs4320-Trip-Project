@@ -1,6 +1,6 @@
 ##### Gambling
 
-[Back to main](https://github.com/jjung759/cs4320-Trip-Project)
+[Back to README.md](https://github.com/jjung759/cs4320-Trip-Project/blob/master/README.md)
 
 [According to Jay Bean,](http://meredith.worldnow.com/story/22172946/dont-waste-your-money-best-and-worst-casino-game-odds) the floor manager at a casino, the place to gamble at is NOT the slot machines.
 
