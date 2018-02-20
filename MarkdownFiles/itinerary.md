@@ -27,10 +27,22 @@
 * #### 12:00 PM - Walk back to Bellagio Hotel
 * #### 12:30 PM - Explore hotel, gamble
 * #### 2:00 PM - Head to New-New York hotel, ride roller coaster
-* ### 3:00 PM - Head back to Bellagio Hotel
+* #### 3:00 PM - Head back to Bellagio Hotel
 * #### 6:10 PM - Walk to Craft Steak
 * #### 6:30 PM - Dinner at Craft Steak
 * #### 7:30 PM - Head back to hotel, gamble
 * #### 9:30 PM - View Cirque Du Soleil show
 * #### 12:00 AM - Sleep
 ### Sunday Feb 25th
+* #### 10:00 AM - Check out of hotel
+* #### 10:15 AM - Breakfast at Grand Lux Cafe
+* #### 11:00 Am - 1:30 PM Walk up and down up the strip
+* #### 1:45 PM - Lunch at Gordon Ramsay Burger
+* #### 2:45 PM Uber to Mandalay Bay Aquarium
+* #### 4:45 PM Play some blackjack at Mandalay Bay casino
+* #### 6:30 PM Uber to Ferraro's
+* #### 8:00 PM Uber from Ferraro's to the Airport
+* #### 8:15 PM Check in for flight, go through security at Mccarron
+* #### 12:35 AM - Fly to Lambert airport
+* #### 5:47 AM - Land in St. Louis
+* #### 6:15 AM - Uber back to Columbia
